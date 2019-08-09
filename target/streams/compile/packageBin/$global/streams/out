@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/sahan/Projects/Location_Estimation_Project/Location_Estimation_Streaming/Location_Estimation_Streaming_Test_2/target/scala-2.11/location_estimation_streaming_test_2_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamsProcessor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sahan/Projects/Location_Estimation_Project/Location_Estimation_Streaming/Location_Estimation_Streaming_Test_2/target/scala-2.11/classes/StreamsProcessor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamsProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sahan/Projects/Location_Estimation_Project/Location_Estimation_Streaming/Location_Estimation_Streaming_Test_2/target/scala-2.11/classes/StreamsProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/Location_Estimation_Streaming_Test_2.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sahan/Projects/Location_Estimation_Project/Location_Estimation_Streaming/Location_Estimation_Streaming_Test_2/target/scala-2.11/classes/META-INF/Location_Estimation_Streaming_Test_2.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamsProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sahan/Projects/Location_Estimation_Project/Location_Estimation_Streaming/Location_Estimation_Streaming_Test_2/target/scala-2.11/classes/StreamsProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sahan/Projects/Location_Estimation_Project/Location_Estimation_Streaming/Location_Estimation_Streaming_Test_2/target/scala-2.11/classes/META-INF[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
